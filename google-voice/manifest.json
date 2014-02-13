@@ -1,0 +1,16 @@
+{
+   "name": "Google Voice",
+   "description": "The human voice can never reach the distance that is covered by the still small voice of conscience.",
+   "version": "0.0.0.1",
+   "manifest_version": 2,
+   "app": {
+      "urls": [ "https://www.google.com/voice/" ],
+      "launch": {
+         "web_url": "https://www.google.com/voice/"
+      }
+   },
+   "description": "",
+   "icons": {
+      "128": "google-voice-icon.png"
+   }
+}
